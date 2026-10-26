@@ -1,0 +1,8 @@
+# Secrets : jamais dans Git
+postgres-secret.yaml
+*.pem
+*.key
+
+# Preuves et fichiers locaux
+preuves/
+*.log
